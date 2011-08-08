@@ -104,7 +104,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_COPY_FILES += \
     device/htc/liberty/vold.fstab:system/etc/vold.fstab \
     device/common/gps/gps.conf_US:system/etc/gps.conf \
-    vendor/cyanogen/prebuilt/common/etc/apns-conf.xml:system/etc/apns-conf.xml
+    vendor/evervolv/prebuilt/common/etc/apns-conf.xml:system/etc/apns-conf.xml
 
 # Kernel modules
 
